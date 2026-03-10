@@ -1,0 +1,147 @@
+Removed Pin From Net: NetName=12V_EXP Pin=C1-2
+Removed Pin From Net: NetName=12V_EXP Pin=J1-1
+Removed Pin From Net: NetName=I_LD_EXT Pin=J1-3
+Removed Pin From Net: NetName=+3.3 Pin=R2-1
+Removed Pin From Net: NetName=MOSI_LD Pin=R3-1
+Removed Pin From Net: NetName=SCK_LD Pin=R4-1
+Removed Pin From Net: NetName=SW_EXT_CS Pin=R5-1
+Removed Pin From Net: NetName=MOSI_LD Pin=TP3-1
+Removed Pin From Net: NetName=SCK_LD Pin=TP4-1
+Removed Pin From Net: NetName=SW_EXT_CS Pin=TP5-1
+Removed Pin From Net: NetName=12V_EXP Pin=TVS4-1
+Removed Pin From Net: NetName=12V_EXP Pin=TVS4-3
+Removed Pin From Net: NetName=NetR4_2 Pin=U1-1
+Removed Pin From Net: NetName=12V_EXP Pin=U1-2
+Removed Pin From Net: NetName=NetR3_2 Pin=U1-3
+Removed Pin From Net: NetName=NetD5_2 Pin=U1-14
+Removed Pin From Net: NetName=NetD6_2 Pin=U1-16
+Removed Pin From Net: NetName=NetD8_2 Pin=U1-20
+Removed Pin From Net: NetName=NetR2_2 Pin=U1-23
+Removed Pin From Net: NetName=NetR5_2 Pin=U1-24
+Removed Member From Class: ClassName=SWITCHING Member=R6
+Removed Member From Class: ClassName=SWITCHING Member=TP7
+Change Footprint: Cannot match pads with new footprint in component :J1 Footprint:SOT23-123
+Change Component Comment : Designator=R2 Old Comment=4.7K 1% New Comment=22R 1%
+Change Component Comment : Designator=R4 Old Comment=22R 1% New Comment=4.7K 1%
+Change Component Comment : Designator=TP2 Old Comment=Test-Point New Comment=
+Change Component Comment : Designator=TP3 Old Comment=Test-Point New Comment=
+Change Component Comment : Designator=TP4 Old Comment=Test-Point New Comment=
+Change Component Comment : Designator=TP5 Old Comment=Test-Point New Comment=
+Change Component Comment : Designator=TP6 Old Comment=Test-Point New Comment=
+Change Component Kind : Designator=TP5 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=TP6 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=TP4 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=TP2 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=TP3 Old Kind=Standard New Kind=Standard (No BOM)
+Change component parameters: Designator = "TP2" ("TP2"); Footprint = "TESTPOINT"; UniqueID = "\ARVIWIVT" ("\ARVIWIVT")
+Change component parameters (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP3" ("TP3"); Footprint = "TESTPOINT"; UniqueID = "\EWCPMVZG" ("\EWCPMVZG")
+Change component parameters (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP4" ("TP4"); Footprint = "TESTPOINT"; UniqueID = "\BNPROWJY" ("\BNPROWJY")
+Change component parameters (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP5" ("TP5"); Footprint = "TESTPOINT"; UniqueID = "\KAHSJIND" ("\KAHSJIND")
+Change component parameters (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP6" ("TP6"); Footprint = "TESTPOINT"; UniqueID = "\BHPFFIAD" ("\BHPFFIAD")
+Change component parameters (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(TESTPOINT)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=I_LD_EXT Pin=C2-1
+Added Pin To Net: NetName=I_LD_EXT Pin=J1-2
+Added Pin To Net: NetName=12V_EXP Pin=J1-3
+Added Pin To Net: NetName=I_LD_EXT Pin=J1-S1
+Added Pin To Net: NetName=I_LD_EXT Pin=J1-S2
+Added Pin To Net: NetName=MOSI_LD Pin=R1-1
+Added Pin To Net: NetName=SCK_LD Pin=R2-1
+Added Pin To Net: NetName=SW_EXT_CS Pin=R3-1
+Added Pin To Net: NetName=+3.3 Pin=R4-1
+Added Pin To Net: NetName=MOSI_LD Pin=TP1-1
+Added Pin To Net: NetName=SCK_LD Pin=TP3-1
+Added Pin To Net: NetName=SW_EXT_CS Pin=TP4-1
+Added Pin To Net: NetName=NetD5_2 Pin=TP6-1
+Added Pin To Net: NetName=I_LD_EXT Pin=TVS1-2
+Added Pin To Net: NetName=I_LD_EXT Pin=TVS2-2
+Added Pin To Net: NetName=I_LD_EXT Pin=TVS3-2
+Added Pin To Net: NetName=I_LD_EXT Pin=TVS4-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-1
+Added Pin To Net: NetName=I_LD_EXT Pin=U1-4
+Added Pin To Net: NetName=NetD6_2 Pin=U1-14
+Added Pin To Net: NetName=NetD8_2 Pin=U1-16
+Added Pin To Net: NetName=NetD5_2 Pin=U1-20
+Added Pin To Net: NetName=I_LD_EXT Pin=U1-21
+Added Pin To Net: NetName=NetR5_2 Pin=U1-22
+Added Pin To Net: NetName=NetR4_2 Pin=U1-23
+Added Pin To Net: NetName=NetR3_2 Pin=U1-24
+Change Net Name : Old Net Name=12V_EXP New Net Name=I_LD_EXT
+Change Net Name : Old Net Name=I_LD_EXT New Net Name=GND
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(186, 173, 164)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Added Pin To Net: NetName=12V_EXP Pin=C1-2
+Added Pin To Net: NetName=12V_EXP Pin=J1-1
+Added Pin To Net: NetName=12V_EXP Pin=TVS4-1
+Added Pin To Net: NetName=12V_EXP Pin=TVS4-3
+Added Pin To Net: NetName=12V_EXP Pin=U1-2
+Added Net: Name=12V_EXP
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-3
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=TP5-1
+Added Net: Name=NetR5_1
+Change Class Name : Old Net Name=SWITCHING New Net Name=SWITCH
+Added Member To Class: ClassName=SWITCH Member=Component R1 22R 1%
+Added Member To Class: ClassName=SWITCH Member=Component TP1
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
