@@ -1,0 +1,24 @@
+Removed Member From Class: ClassName=COMMUNICATION Member=TP3
+Removed Member From Class: ClassName=COMMUNICATION Member=TP6
+Added Pin To Net: NetName=GND Pin=Hole1-1
+Added Pin To Net: NetName=GND Pin=Hole1-1
+Added Pin To Net: NetName=GND Pin=Hole1-1
+Added Pin To Net: NetName=GND Pin=Hole1-1
+Added Pin To Net: NetName=GND Pin=Hole1-1
+Added Pin To Net: NetName=GND Pin=Hole1-1
+Added Pin To Net: NetName=GND Pin=Hole1-1
+Added Pin To Net: NetName=GND Pin=Hole1-1
+Added Pin To Net: NetName=GND Pin=Hole1-1
+Added Pin To Net: NetName=GND Pin=Hole2-1
+Added Pin To Net: NetName=GND Pin=Hole2-1
+Added Pin To Net: NetName=GND Pin=Hole2-1
+Added Pin To Net: NetName=GND Pin=Hole2-1
+Added Pin To Net: NetName=GND Pin=Hole2-1
+Added Pin To Net: NetName=GND Pin=Hole2-1
+Added Pin To Net: NetName=GND Pin=Hole2-1
+Added Pin To Net: NetName=GND Pin=Hole2-1
+Added Pin To Net: NetName=GND Pin=Hole2-1
+Added Member To Class: ClassName=COMMUNICATION Member=Component TP1
+Added Member To Class: ClassName=COMMUNICATION Member=Component TP2
+Added Member To Class: ClassName=SWITCH Member=Component TP4
+Added Member To Class: ClassName=SWITCH Member=Component TP5

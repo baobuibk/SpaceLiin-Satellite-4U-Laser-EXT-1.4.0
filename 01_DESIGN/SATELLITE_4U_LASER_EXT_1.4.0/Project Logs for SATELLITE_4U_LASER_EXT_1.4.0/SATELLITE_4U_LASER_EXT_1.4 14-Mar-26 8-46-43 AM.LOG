@@ -1,0 +1,28 @@
+Change Component Designator: OldDesignator=TP1 NewDesignator=TP3
+Change Component Designator: OldDesignator=TP2 NewDesignator=TP4
+Change Component Designator: OldDesignator=TP3 NewDesignator=TP5
+Change Component Designator: OldDesignator=TP4 NewDesignator=TP6
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP7
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP8
+Added Component: Designator=TP1(TESTPOINT)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP2(TESTPOINT)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V_EXP Pin=TP1-1
+Added Pin To Net: NetName=I_LD_EXT Pin=TP2-1
+Added Member To Class: ClassName=COMMUNICATION Member=Component TP1
+Added Member To Class: ClassName=COMMUNICATION Member=Component TP2
